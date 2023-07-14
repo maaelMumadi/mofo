@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
