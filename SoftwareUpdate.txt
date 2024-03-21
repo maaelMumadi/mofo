@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+ultralytics 8.0.229 add model.embed() method (#7098)
