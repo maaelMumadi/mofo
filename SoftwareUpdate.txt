@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Model typehints Docker fix (#8306)
