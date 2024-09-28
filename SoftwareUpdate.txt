@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update the heatmap module code + docs (#7045)
